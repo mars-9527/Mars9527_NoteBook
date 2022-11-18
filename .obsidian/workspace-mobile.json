@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "71ba2c587caa5dc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "97abd80843f23ad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "206d7fea27861fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "好玩/科学上网/0.Shadowsocks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5f28472747b5e58",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b28b04aed7cea20e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b0771514c0c1ca8e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5e93ea1296ed53d4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2ed4bb83e9073402",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8c392445251166a1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "caf733611a72fce3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "好玩/科学上网/0.Shadowsocks.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8e954b70cdcdb950",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "好玩/科学上网/0.Shadowsocks.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e0d531afaf345596",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "好玩/科学上网/0.Shadowsocks.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "206d7fea27861fcd",
+  "lastOpenFiles": [
+    "好玩/科学上网/0.科学上网设置.md",
+    "README.md",
+    "好玩/科学上网/0.Shadowsocks.md"
+  ]
+}
