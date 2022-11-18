@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3465eb90ed523ed2",
+        "id": "c6510dab4dadd3cb",
         "type": "tabs",
         "children": [
           {
-            "id": "79735dd319c1bfb1",
+            "id": "364f49a21a7c661d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "好玩/科学上网/0.科学上网设置.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "424d071733548fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "好玩/科学上网/0.Shadowsocks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "好玩/科学上网/0.Shadowsocks.md",
+                "file": "好玩/科学上网/0.科学上网设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "好玩/科学上网/0.Shadowsocks.md",
+                "file": "好玩/科学上网/0.科学上网设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "好玩/科学上网/0.Shadowsocks.md"
+                "file": "好玩/科学上网/0.科学上网设置.md"
               }
             }
           }
@@ -149,10 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "424d071733548fa7",
+  "active": "364f49a21a7c661d",
   "lastOpenFiles": [
-    "好玩/科学上网/0.科学上网设置.md",
     "好玩/科学上网/0.Shadowsocks.md",
+    "好玩/科学上网/0.科学上网设置.md",
     "README.md",
     "assets/Pasted image 20221118182716.png",
     "assets/Pasted image 20221118182516.png",
