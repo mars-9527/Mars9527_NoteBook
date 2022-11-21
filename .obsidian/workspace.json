@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "364f49a21a7c661d",
+            "id": "e9c8347caa5b86af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "好玩/科学上网/0.科学上网设置.md",
+                "file": "3_好玩/科学上网/1.梅林固件路由器时间服务器劫持.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4008c080d5d5ec1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Windows/1.win10访问SMB共享磁盘.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5058e7225910adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_好玩/科学上网/1.XBox Apple Music端口映射.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09c937cc5aaf93d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_好玩/科学上网/1.XBox Apple Music端口映射.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "好玩/科学上网/0.科学上网设置.md",
+                "file": "3_好玩/科学上网/1.XBox Apple Music端口映射.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "好玩/科学上网/0.科学上网设置.md",
+                "file": "3_好玩/科学上网/1.XBox Apple Music端口映射.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "好玩/科学上网/0.科学上网设置.md"
+                "file": "3_好玩/科学上网/1.XBox Apple Music端口映射.md"
               }
             }
           }
@@ -136,15 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "364f49a21a7c661d",
+  "active": "09c937cc5aaf93d5",
   "lastOpenFiles": [
-    "好玩/科学上网/0.Shadowsocks.md",
-    "好玩/科学上网/0.科学上网设置.md",
-    "README.md",
-    "assets/Pasted image 20221118182716.png",
-    "assets/Pasted image 20221118182516.png",
-    "Pasted image 20221118182357.png",
-    "好玩/科学上网/assets/Pasted image 20221118181525.png",
-    "Pasted image 20221118180842.png"
+    "3_好玩/科学上网/2.Netflix账号.md",
+    "3_好玩/科学上网/1.XBox Apple Music端口映射.md",
+    "1_Windows/1.win10访问SMB共享磁盘.md",
+    "1_Windows/0.激活.md",
+    "3_好玩/科学上网/1.梅林固件路由器时间服务器劫持.md",
+    "3_好玩/科学上网/0.Shadowsocks.md",
+    "3_好玩/科学上网/0.科学上网设置.md",
+    "0_BigData/求职/0.面试安排.md",
+    "1_Windows/0.便捷操作.md",
+    "README.md"
   ]
 }
