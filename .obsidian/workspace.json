@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_BigData/00.InMac/1_3.大数据环境安装-HBase.md",
-                "mode": "source",
+                "file": "0_BigData/99.求职/1.总结-面试汇总.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_BigData/00.InMac/1_3.大数据环境安装-HBase.md"
+                "file": "0_BigData/99.求职/1.总结-面试汇总.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_BigData/00.InMac/1_3.大数据环境安装-HBase.md",
+                "file": "0_BigData/99.求职/1.总结-面试汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_BigData/00.InMac/1_3.大数据环境安装-HBase.md",
+                "file": "0_BigData/99.求职/1.总结-面试汇总.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,14 +200,14 @@
   },
   "active": "abd5f8f7698239f5",
   "lastOpenFiles": [
-    "0_BigData/99.求职/1.总结-面试汇总.md",
-    "0_BigData/99.求职/0.面试安排.md",
-    "0_BigData/00.InMac/1_1.大数据环境安装-Hadoop.md",
-    "0_BigData/00.InMac/1_1.编译Hadoop.md",
-    "0_BigData/00.InMac/0_1.常用指令.md",
     "0_BigData/00.InMac/1_4.homebrew应用安装.md",
     "0_BigData/00.InMac/1_3.大数据环境安装-HBase.md",
+    "0_BigData/00.InMac/1_1.大数据环境安装-Hadoop.md",
+    "0_BigData/00.InMac/1_1.编译Hadoop.md",
     "0_BigData/00.InMac/1_2.大数据环境安装-Hive.md",
+    "0_BigData/00.InMac/0_1.常用指令.md",
+    "0_BigData/99.求职/1.总结-面试汇总.md",
+    "0_BigData/99.求职/0.面试安排.md",
     "1_Windows/0.便捷操作.md",
     "1_Windows/0.激活.md"
   ]
