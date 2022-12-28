@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cf6b964e339a57a3",
+        "id": "adaa3d51ccb12622",
         "type": "tabs",
         "children": [
           {
-            "id": "c4762f6c95b3b28e",
+            "id": "3ad18ea049ff556e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -39,12 +43,12 @@
             }
           },
           {
-            "id": "fdc3a79611b51106",
+            "id": "4d28bb952558d03b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_向上/00.学习力提升/Day01.md"
+                "file": "3_0_好玩/2.安卓/1.安卓盒子adb操作.md"
               }
             }
           },
@@ -75,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 300
   },
   "right": {
     "id": "6f496c2c0cc024f6",
@@ -86,6 +90,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "848f9f7fef0646ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "710d851bb0bfdb55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "3afd7e41cc833bc3",
             "type": "leaf",
             "state": {
@@ -95,55 +128,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "d18647b9ece92d24",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "0_向上/00.学习力提升/Day01.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7e0efa382134a4ec",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "0_向上/00.学习力提升/Day01.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "e76940c27b157da7",
+  "active": "3ad18ea049ff556e",
   "lastOpenFiles": [
-    "0_BigData/99.求职/0.面试安排.md",
-    "0_BigData/99.求职/1.总结-面试汇总.md",
-    "0_向上/00.学习力提升/Day01.md",
-    "1_Windows/1.win10访问SMB共享磁盘.md",
-    "1_Windows/0.激活.md",
-    "1_Windows/0.便捷操作.md",
-    "0_BigData/00.InMac/1_3.大数据环境安装-HBase.md",
-    "0_BigData/00.InMac/1_4.homebrew应用安装.md",
-    "0_BigData/00.InMac/1_2.大数据环境安装-Hive.md",
-    "0_BigData/00.InMac/1_1.编译Hadoop.md"
+    "3_0_好玩/1.科学上网/0.Shadowsocks.md",
+    "3_0_好玩/1.科学上网/0.科学上网设置.md",
+    "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
+    "0_BigData/求职/1.总结-面试汇总.md",
+    "0_BigData/求职/0.面试安排.md",
+    "2022-11-21.md",
+    "README.md",
+    "3_0_好玩/1.科学上网/2.Netflix账号.md",
+    "3_0_好玩/1.科学上网/1.XBox Apple Music端口映射.md",
+    "3_0_好玩/1.科学上网/1.梅林固件路由器时间服务器劫持.md"
   ]
 }
