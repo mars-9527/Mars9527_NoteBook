@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "adaa3d51ccb12622",
+        "id": "ca5cec44807dda1c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ad18ea049ff556e",
+            "id": "4df7241f35950f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
-                "mode": "source",
+                "file": "0_2_BigData/99.求职/1.总结-面试汇总.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_0_好玩/2.安卓/1.安卓盒子adb操作.md"
+                "file": "0_2_BigData/99.求职/1.总结-面试汇总.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
+                "file": "0_2_BigData/99.求职/1.总结-面试汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
+                "file": "0_2_BigData/99.求职/1.总结-面试汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +136,27 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "3ad18ea049ff556e",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e76940c27b157da7",
   "lastOpenFiles": [
+    "0_2_BigData/99.求职/0.面试安排.md",
+    "0_0_向上/00.学习力提升/Day01.md",
+    "0_0_向上/00.学习力提升/Day03.md",
+    "0_0_BigData/99.求职/0.面试安排.md",
+    "0_0_BigData/99.求职/1.总结-面试汇总.md",
+    "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
     "3_0_好玩/1.科学上网/0.Shadowsocks.md",
     "3_0_好玩/1.科学上网/0.科学上网设置.md",
-    "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
     "0_BigData/求职/1.总结-面试汇总.md",
-    "0_BigData/求职/0.面试安排.md",
-    "2022-11-21.md",
-    "README.md",
-    "3_0_好玩/1.科学上网/2.Netflix账号.md",
-    "3_0_好玩/1.科学上网/1.XBox Apple Music端口映射.md",
-    "3_0_好玩/1.科学上网/1.梅林固件路由器时间服务器劫持.md"
+    "0_BigData/求职/0.面试安排.md"
   ]
 }
