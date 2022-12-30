@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "025c492bfdd8e672",
+        "id": "136be5ff7ea297de",
         "type": "tabs",
         "children": [
           {
-            "id": "08d8adbd610b5334",
+            "id": "787630d29a262118",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "08d8adbd610b5334",
+  "active": "787630d29a262118",
   "lastOpenFiles": [
+    "3_0_好玩/1.科学上网/2.Netflix账号.md",
+    "3_1_生活笔记/01.人生日记/01.新冠日记.md",
     "0_2_BigData/99.求职/1.总结-面试汇总.md",
     "0_2_BigData/99.求职/0.面试安排.md",
     "0_0_向上/00.学习力提升/Day01.md",
@@ -148,8 +150,6 @@
     "0_0_BigData/99.求职/0.面试安排.md",
     "0_0_BigData/99.求职/1.总结-面试汇总.md",
     "3_0_好玩/2.安卓/1.安卓盒子adb操作.md",
-    "3_0_好玩/1.科学上网/0.Shadowsocks.md",
-    "3_0_好玩/1.科学上网/0.科学上网设置.md",
-    "0_BigData/求职/1.总结-面试汇总.md"
+    "3_0_好玩/1.科学上网/0.Shadowsocks.md"
   ]
 }
