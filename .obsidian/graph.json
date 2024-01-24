@@ -1,22 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Win  ",
+      "color": {
+        "a": 1,
+        "rgb": 2571214
+      }
+    },
+    {
+      "query": "tag:#Mac  ",
+      "color": {
+        "a": 1,
+        "rgb": 2149849
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.8860595703125,
+  "lineSizeMultiplier": 1.00260009765625,
+  "collapse-forces": false,
+  "centerStrength": 0.303548177083333,
+  "repelStrength": 8.17789713541667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 240,
+  "scale": 0.9283603904380497,
   "close": false
 }
