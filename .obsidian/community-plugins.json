@@ -4,5 +4,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-math-plus",
   "terminal",
-  "obsidian-textgenerator-plugin"
+  "obsidian-textgenerator-plugin",
+  "obsidian-git",
+  "obsidian-style-settings"
 ]
