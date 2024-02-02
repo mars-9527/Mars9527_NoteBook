@@ -4,5 +4,6 @@
   "userIgnoreFilters": null,
   "readableLineLength": false,
   "defaultViewMode": "preview",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false
 }
